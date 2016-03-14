@@ -4,8 +4,15 @@
         <description><![CDATA[140journos]]></description>
         <link>https://thegrid.ai/140journos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:02:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/140journos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>yürüyüşe</p>]]></description>
+            <link>https://thegrid.ai/140journos/yuruyuse/index.html</link>
+            <guid isPermaLink="false">2d2b9adc-879e-4150-97cd-fe1148e957da</guid>
+            <pubDate>Mon, 14 Mar 2016 20:01:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-frt3-1.xx.fbcdn.net/hphotos-xtl1/v/t1.0-9/12821349_448249675373862_7984675913710449596_n.jpg?oh=05cf86f9ce1b38cdd93c7785cfff07c6&oe=5751919A">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/140journos/videos/vb.339151109447351/1251779784851141/?type=2&amp;theater#</link>
             <guid isPermaLink="false">4def9c22-a3ca-4a9f-a342-831e1269154a</guid>
             <pubDate>Mon, 14 Mar 2016 17:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neden "Cuma Hutbesi" 140journos Yayınında Paylaşılıyor?]]></title>
-            <description><![CDATA[<article><h1>Neden "Cuma Hutbesi" 140journos Yayınında Paylaşılıyor?</h1><p>(Yazı: Engin Önder/140journos) 140journos, Şubat 2016'dan itibaren her cuma günkü yayınında, Diyanet İşleri Başkanlığı tarafından belirlenen Cuma Hutbesi metnini ve Başkanlık'ın web sitesinde duyurulan dijital edisyonunu haber yayınında paylaşmaya başladı. Bir haber içeriğinin doğrudan öznesi olmadığı halde, Cuma Hutbesi'nin bir haber yayınında düzenli olarak işlendiğine muhafazakar medya dahil olmak üzere pek rastlanmıyor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4570b4e2b66e00e707804424638ed3b91f2657d2.png"></article>]]></description>
-            <link>https://thegrid.ai/140journos/neden-cuma-hutbesi-140journos-yayininda-paylasiliyor/index.html</link>
-            <guid isPermaLink="false">d36ad817-17a3-4912-9d7d-ff23d8393f22</guid>
-            <pubDate>Mon, 14 Mar 2016 17:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
