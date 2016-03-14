@@ -11,8 +11,8 @@ description: '"Katliamlar, ölümler oluyor. Hükümetin yaptığı tek şey kı
 app_links: []
 isBasedOnUrl: 'https://amp.twimg.com/v/d95f9f86-9c1b-4164-b554-172eb6d1746c'
 title: "Demirtaş Ankara'da Yapılan Saldırıyla İlgili Konuştu (14 Mart 2016)"
-datePublished: '2016-03-14T17:16:34.237Z'
-dateModified: '2016-03-14T17:15:09.812Z'
+datePublished: '2016-03-14T17:18:28.118Z'
+dateModified: '2016-03-14T17:18:02.812Z'
 sourcePath: _posts/2016-03-14-demirtas-ankarada-yapilan-saldiriyla-ilgili-konustu-14-mar.md
 published: true
 inFeed: true
