@@ -1,6 +1,6 @@
 name: 140journos
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73817
 typography_spectrum: 1
 title: 140journos
 cta:
@@ -22,7 +22,7 @@ color:
     - '#f07930'
     - '#241205'
     - '#525e54'
-  brandStrength: 0.75
+  brandStrength: 0
   lightness: 0.125
   saturation: 0.9375
   rhythmicContrast: 0.75
