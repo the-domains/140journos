@@ -4,8 +4,15 @@
         <description><![CDATA[140journos]]></description>
         <link>https://thegrid.ai/140journos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:56:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/140journos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>#Antalya Halkevleri, #Ankara'da yapılan saldırıyı oturma eylemi yaparak protesto etti.</p>]]></description>
+            <link>https://thegrid.ai/140journos/antalya-halkevleri-ankarada-yapilan-saldiriyi-oturma-eyl/index.html</link>
+            <guid isPermaLink="false">8f96f0aa-4561-4529-9f19-76e61b97f74b</guid>
+            <pubDate>Mon, 14 Mar 2016 20:55:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CdiJD0BW4AA18jy.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Spor Yazarı Volkan Ağır, Galatasaray ve Fenerbahçe'nin UEFA 2. Turdaki Rakiplerini Yorumladı</h1><p>Spor Yazarı Volkan Ağır, Galatasaray ve Fenerbahçe'nin UEFA 2. Turdaki Rakiplerini Yorumladı Roma kentinin mavi formalı temsilcisi geçen sene İtalya Ligi'ni 3. sırada bitirdi. UEFA Avrupa Ligi'ne Şampiyonlar Ligi elemesinde Bayer Leverkusen'e elenerek katıldı. Avrupa Ligi'ndeki grubunda Dnipro, Rosenborg ve Saint Etienne gibi kolay olduğu söylenebilecek bir grupta yer aldı.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d79c41d8cb358e699148cdbb0f29b65b80ac7b.png"></article>]]></description>
             <link>https://thegrid.ai/140journos/spor-yazari-volkan-agir-galatasaray-ve-fenerbahcenin-uefa/index.html</link>
             <guid isPermaLink="false">5f3f7ed5-40de-431a-9f6f-d05f586fbad5</guid>
-            <pubDate>Mon, 14 Mar 2016 17:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch the New VICELAND Trailer for 'Huang's World']]></title>
-            <description><![CDATA[<article><h1>Watch the New VICELAND Trailer for 'Huang's World'</h1><p>Eddie Huang is back to raise hell, and he's drinking Burgundy in Burgundy, eating ancient stuff in Istanbul, and changing the way you see food.</p></article>]]></description>
-            <link>https://munchies.vice.com/en/articles/watch-the-new-viceland-trailer-for-huangs-world</link>
-            <guid isPermaLink="false">e3f4ce06-2ce5-4050-adfc-f7937c0e16d5</guid>
             <pubDate>Mon, 14 Mar 2016 17:44:29 GMT</pubDate>
         </item>
     </channel>
