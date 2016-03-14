@@ -4,8 +4,15 @@
         <description><![CDATA[140journos]]></description>
         <link>https://thegrid.ai/140journos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:02:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/140journos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Antalya Anadolu Lisesi, öğrenciler hareketsiz ve sessiz durarak Ankara Saldırısı'nı protesto etti. @antalyagencumut pic.twitter.com/7cjOE6lrPG</p>]]></description>
+            <link>https://twitter.com/140journos/status/709466867681910786</link>
+            <guid isPermaLink="false">f61271df-6278-4307-a4f7-00ecd44f74d9</guid>
+            <pubDate>Mon, 14 Mar 2016 20:01:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>yürüyüşe</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/vasif.kortun/posts/10153365661501524</link>
             <guid isPermaLink="false">a4c4e3bb-2003-4c1d-84e7-6cfb710cadc9</guid>
             <pubDate>Mon, 14 Mar 2016 17:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Gezi Park&inodot; eylemlerinin s&uuml;rd&uuml;&gbreve;&uuml; 16 Haziran 2013&apos;te ba&scedil;&inodot;na gaz bombas&inodot; kaps&uuml;l&uuml; isabet eden ve komada ge&ccedil;irdi&gbreve;i 269 g&uuml;n&uuml;n sonunda 11 Mart 2014&apos;te hayat&inodot;n&inodot; kaybeden Berkin Elvan&apos;&inodot;n bug&uuml;n &ouml;l&uuml;m y&inodot;ld&ouml;n&uuml;m&uuml;&period;" src="https://scontent.xx.fbcdn.net/hvthumb-xpt1/v/t15.0-10/p128x128/12672281_1251801811515605_2143238039_n.jpg?oh=35955e6f105bf396fd6d82bd41c0fe2c&oe=574BB671">]]></description>
-            <link>https://www.facebook.com/140journos/videos/vb.339151109447351/1251779784851141/?type=2&amp;theater#</link>
-            <guid isPermaLink="false">4def9c22-a3ca-4a9f-a342-831e1269154a</guid>
-            <pubDate>Mon, 14 Mar 2016 17:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
