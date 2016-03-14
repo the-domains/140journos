@@ -4,8 +4,15 @@
         <description><![CDATA[140journos]]></description>
         <link>https://thegrid.ai/140journos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:55:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/140journos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CdiJD0BW4AA18jy.jpg">]]></description>
+            <link>https://thegrid.ai/140journos/b2f557b8-b55a-47ba-85cd-c0ab9d1ddb85/index.html</link>
+            <guid isPermaLink="false">b2f557b8-b55a-47ba-85cd-c0ab9d1ddb85</guid>
+            <pubDate>Mon, 14 Mar 2016 20:55:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nuh Köklü Cinayeti]]></title>
             <description><![CDATA[<article><h1>Nuh Köklü Cinayeti</h1><p>Gazeteci Nuh Köklü'nün 17 Şubat 2015'te İstanbul Kadıköy Yeldeğirmeni'nde kar topu oynarken öldürülmesinin 1. yıl dönümünde 140journos, olayı ve sonrasında yaşanan süreçleri derledi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2108b9b24a39803343ac3894c5bca6fbbd048dcf.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Watch the New VICELAND Trailer for 'Huang's World'</h1><p>Eddie Huang is back to raise hell, and he's drinking Burgundy in Burgundy, eating ancient stuff in Istanbul, and changing the way you see food.</p></article>]]></description>
             <link>https://munchies.vice.com/en/articles/watch-the-new-viceland-trailer-for-huangs-world</link>
             <guid isPermaLink="false">e3f4ce06-2ce5-4050-adfc-f7937c0e16d5</guid>
-            <pubDate>Mon, 14 Mar 2016 17:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Özgecan Aslan'ın Öldürülmesi Sonrası Yaşanan Toplumsal ve Hukuki Süreçler]]></title>
-            <description><![CDATA[<article><h1>Özgecan Aslan'ın Öldürülmesi Sonrası Yaşanan Toplumsal ve Hukuki Süreçler</h1><p>11 Şubat 2016, Özgecan Aslan'ın öldürülüşünün 1. yıldönümüydü. 22 Ekim 1995'te doğan Özgecan Aslan, Mersin Çağ Üniversitesi öğrencisiydi. Özgecan Aslan, Tarsus'ta 11 Şubat 2015'te bindiği minibüste tecavüz girişimine direndi. Bıçaklandıktan sonra elleri kesilen ve yakılan Özgecan'ın cansız bedeni 13 Şubat günü bulundu.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1064517cf537a22f3837ac92e7e3352432f22c16.png"></article>]]></description>
-            <link>https://thegrid.ai/140journos/ozgecan-aslanin-oldurulmesi-sonrasi-yasanan-toplumsal-ve-hu/index.html</link>
-            <guid isPermaLink="false">906e6bef-39da-45c1-8c17-39b7481d286e</guid>
             <pubDate>Mon, 14 Mar 2016 17:44:29 GMT</pubDate>
         </item>
     </channel>
