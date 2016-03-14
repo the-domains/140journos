@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[140journos]]></title>
         <description><![CDATA[140journos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/140journos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:07:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 17:13:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/140journos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Gere&gbreve;iD&uuml;&scedil;&uuml;n&uuml;ld&uuml;&colon; 13 y&inodot;l hapis cezas&inodot; verilen san&inodot;k Ahmet Ku&scedil; &apos;adli kontrol tedbiri yeterli&apos; denilerek tutuklanmad&inodot;&period;" src="https://pbs.twimg.com/media/CdhiXc0XEAAmKp7.jpg:large">]]></description>
+            <link>https://twitter.com/140journos/status/709425097761755136</link>
+            <guid isPermaLink="false">d2691b04-9fde-4317-8c3d-cabdf9b4cc56</guid>
+            <pubDate>Mon, 14 Mar 2016 17:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Ba&scedil;bakan Davuto&gbreve;lu &num;Ankara&apos;da yap&inodot;lan sald&inodot;r&inodot;yla ilgili konu&scedil;tu&colon; &quot;11 g&ouml;zalt&inodot; var&period; B&uuml;t&uuml;n bir a&gbreve; ortaya &ccedil;&inodot;kar&inodot;l&inodot;yor&period;&quot;" src="https://pbs.twimg.com/media/CdhgOrQWoAAfyCd.png:large">]]></description>
