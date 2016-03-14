@@ -2,6 +2,7 @@ name: 140journos
 favicon: null
 layout_spectrum: 0.9805954180192202
 typography_spectrum: 0.2806175034493208
+title: 140journos
 cta:
   domain: null
   bucket: null
